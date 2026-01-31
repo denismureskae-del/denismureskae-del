@@ -4,4 +4,5 @@
 Denis — Identity Engineer.
 Инженер формы личности.
 Проект: «Точка Ноль».
+Проект: "qg-Manifest".
 
